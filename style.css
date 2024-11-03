@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+.my-button {
+    background-color: rgb(217, 189, 243);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+} 
+
+.my-button:hover {
+    opacity: 0.2;
+}
